@@ -1,18 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# portfolio
 
-> One paragraph statement about the project.
+> portfolio set up and mobile version is a second project i am working on in my first week of starting at microverse
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app-screenshot.png)
 
-Additional description about the project and its features.
+mobile set up.
+home 
+logo
+contact
+icons
 
 ## Built With
 
-- Html 5
-- Bootstrap
-- Css3
+- Html/css
 
 ## Live Demo
 
@@ -38,9 +40,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Zaliha Zambo Yunusa**
 
 - GitHub: [@githubhandle](https://github.com/xaleehrtyunus)
+- Twitter: [@twitterhangle](https://twiiter.com/yunusxaleehrt)
+- LinkedIn: [@linkedin](https://linkedin.com/zalihagamboyunusa)
 
 
 ## 🤝 Contributing

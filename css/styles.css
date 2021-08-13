@@ -1,9 +1,26 @@
 .body-section {
   padding-top: 20%;
-  width: 50%;
-  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
 }
+
 
 .icons {
   width: 30px;
+}
+
+.circles {
+  background-image: url("/portfolio/images/mainbackground.png");
+  background-repeat: no-repeat;
+  width: 80%;
+}
+
+
+.connect,
+.logo {
+  font-weight: bolder;
+  color: blue;
+  text-decoration: none;
 }
