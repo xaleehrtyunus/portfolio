@@ -2,7 +2,8 @@
 
 > Mobile version of my portfolio project
 
-![screenshot](./app-screenshot.png)
+![xaleehrtyunus github io_portfolio_](https://user-images.githubusercontent.com/73062137/129442840-98c8f1c1-b6e8-49f8-84fd-4b52fe46a915.png)
+
 
 mobile set up.
 home 
