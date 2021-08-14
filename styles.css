@@ -9,7 +9,7 @@
   
 .nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding-top: 40px;
 }
@@ -26,7 +26,7 @@
 }
   
 .circles {
-  background-image: url("/images/mainbackground.png");
+  background-image: url("./images/mainbackground.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
