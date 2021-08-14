@@ -5,11 +5,11 @@
 ![xaleehrtyunus github io_portfolio_](https://user-images.githubusercontent.com/73062137/129442840-98c8f1c1-b6e8-49f8-84fd-4b52fe46a915.png)
 
 
-mobile set up.
-home 
-logo
-contact
-icons
+- mobile set up.
+- home 
+- logo 
+- contact
+- icons
 
 ## Built With
 
@@ -35,8 +35,6 @@ enjoy
 - Twitter: [@twitterhangle](https://twiiter.com/yunusxaleehrt)
 - LinkedIn: [@linkedin](https://linkedin.com/zalihagamboyunusa)
 
-<<<<<<< HEAD
-=======
 
 ## 🤝 Contributing
 
@@ -56,4 +54,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
->>>>>>> 41b3f8c0c5213a1792b2c64f658158f8365a00ff
