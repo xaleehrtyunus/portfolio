@@ -4,6 +4,7 @@ body {
   font-family: 'Poppins', sans-serif;
   width: 90%;
   margin: 0 auto;
+  background-color: #e5e5e5;
 }
 
 .body-section {
@@ -13,12 +14,18 @@ body {
   align-items: center;
   justify-content: space-around;
   width: 70%;
+  background-color: white;
+}
+
+section {
+  background-color: white;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: white;
 }
 
 .icons {
@@ -52,6 +59,15 @@ body {
   text-decoration: none;
 }
 
+.cnn {
+  background-color: white;
+  padding: 10px;
+}
+
+
+.develop {
+  padding: 10px;
+}
 .image-work {
   width: 100%;
 }
