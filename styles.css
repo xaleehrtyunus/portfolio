@@ -36,7 +36,6 @@ body {
 
 .main-text-1 {
   width: 50px;
-
 }
 
 .circles {
@@ -98,6 +97,7 @@ li {
   width: 80%;
   padding-left: 0;
 }
+
 .stack {
   padding: 5px;
   background-color: #ebebff;
@@ -134,7 +134,4 @@ li {
 .text {
   padding-left: 10px;
 }
-
-.dropdown {
-  
-}
+git
