@@ -2,6 +2,8 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .body-section {
@@ -24,10 +26,17 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 10px;
 }
 
 .main-text {
   padding-top: 50px;
+  width: 80%;
+}
+
+.main-text-1 {
+  width: 50px;
+
 }
 
 .circles {
@@ -40,7 +49,7 @@ body {
 .connect,
 .logo {
   font-weight: bolder;
-  color: blue;
+  color: grey;
   text-decoration: none;
 }
 
@@ -49,7 +58,7 @@ body {
 }
 
 .works {
-  padding-top: 30px;
+  padding-top: 150px;
   margin: 0 auto;
   width: 90%;
 }
@@ -67,6 +76,10 @@ a {
   text-align: center;
 }
 
+.resume {
+  padding: 12px;
+}
+
 .works-section {
   width: 98%;
   margin: 0 auto;
@@ -75,6 +88,16 @@ a {
   padding: 10px;
 }
 
+li {
+  list-style: none;
+}
+
+.stack-flex {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  padding-left: 0;
+}
 .stack {
   padding: 5px;
   background-color: #ebebff;
@@ -109,5 +132,9 @@ a {
 }
 
 .text {
-  padding-left: 5px;
+  padding-left: 10px;
+}
+
+.dropdown {
+  
 }
