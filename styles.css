@@ -64,10 +64,10 @@ section {
   padding: 10px;
 }
 
-
 .develop {
   padding: 10px;
 }
+
 .image-work {
   width: 100%;
 }
@@ -75,7 +75,8 @@ section {
 .works {
   padding-top: 150px;
   margin: 0 auto;
-  width: 90%;
+  width: 95%;
+  background-color: white;
 }
 
 a {
