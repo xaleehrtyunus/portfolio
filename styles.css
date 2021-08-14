@@ -1,42 +1,41 @@
-
 .body-section {
-    padding-top: 20%;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-around;
-    width: 70%;
-  }
+  padding-top: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  width: 70%;
+}
   
-  .nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding-top: 40px;
-  }
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 40px;
+}
   
-  .icons {
-    width: 45%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .main-text {
-    padding-top: 50px;
-  }
+.icons {
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-text {
+  padding-top: 50px;
+}
   
-  .circles {
-    background-image: url("/images/mainbackground.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-  }
+.circles {
+  background-image: url("/images/mainbackground.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
   
-  
-  .connect,
-  .logo {
-    font-weight: bolder;
-    color: blue;
-    text-decoration: none;
-  }
+.connect,
+.logo {
+  font-weight: bolder;
+  color: blue;
+  text-decoration: none;
+}
   
