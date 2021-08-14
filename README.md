@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-=======
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
->>>>>>> 41b3f8c0c5213a1792b2c64f658158f8365a00ff
 # portfolio
 
-> portfolio set up and mobile version is a second project i am working on in my first week of starting at microverse
+> Mobile version of my portfolio project
 
 ![screenshot](./app-screenshot.png)
 
@@ -33,25 +28,6 @@ or
 enjoy
 
 
-<<<<<<< HEAD
-=======
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
->>>>>>> 41b3f8c0c5213a1792b2c64f658158f8365a00ff
 👤 **Zaliha Zambo Yunusa**
 
 - GitHub: [@githubhandle](https://github.com/xaleehrtyunus)
