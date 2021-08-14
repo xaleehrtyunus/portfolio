@@ -2,6 +2,9 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #e5e5e5;
 }
 
 .body-section {
@@ -11,12 +14,18 @@ body {
   align-items: center;
   justify-content: space-around;
   width: 70%;
+  background-color: white;
+}
+
+section {
+  background-color: white;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: white;
 }
 
 .icons {
@@ -24,10 +33,16 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 10px;
 }
 
 .main-text {
   padding-top: 50px;
+  width: 80%;
+}
+
+.main-text-1 {
+  width: 50px;
 }
 
 .circles {
@@ -40,6 +55,99 @@ body {
 .connect,
 .logo {
   font-weight: bolder;
-  color: blue;
+  color: grey;
   text-decoration: none;
+}
+
+.cnn {
+  background-color: white;
+  padding: 10px;
+}
+
+.develop {
+  padding: 10px;
+}
+
+.image-work {
+  width: 100%;
+}
+
+.works {
+  padding-top: 150px;
+  margin: 0 auto;
+  width: 95%;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.project-link {
+  border: 1px solid #396df2;
+  color: #396df2;
+  padding: 5px;
+  width: 100px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.resume {
+  padding: 12px;
+}
+
+.works-section {
+  width: 98%;
+  margin: 0 auto;
+  border: 1px solid #ebebff;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.stack-flex {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  padding-left: 0;
+}
+
+.stack {
+  padding: 5px;
+  background-color: #ebebff;
+  border: 1px solid #ebebff;
+  border-radius: 10px;
+}
+
+.about {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.language {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 7% 7% 7%;
+  margin-top: 2%;
+  border-bottom: 1px solid grey;
+  margin-bottom: 13px;
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+  background-color: rgb(223, 221, 221);
+  width: 80%;
+  margin: 0 auto;
+  padding: 9px 16px;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+.text {
+  padding-left: 10px;
 }
